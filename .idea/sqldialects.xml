@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/2.distinct.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/3.where.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/4.count.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/5.order_by.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/6.min_max_avg_sum.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/in.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/SQL_Tasks/like.sql" dialect="GenericSQL" />
+  </component>
+</project>
