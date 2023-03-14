@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/2.distinct.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/3.where.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/4.count.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/5.order_by_desc_asc.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/6.min_max_avg_sum_group_by_having.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/7.in.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/SQL_Tasks/8.like.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/2.distinct.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/3.where.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/4.count.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/5.order_by_desc_asc.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/6.min_max_avg_sum_group_by_having.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/7.in.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day1_SQL/8.like.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day2_SQL/1.SUBQUERY_ROWNUM.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day2_SQL/2.ManipulationWithAs_Concatination_LowerCase_UpperCase_Length_Substr.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day2_SQL/3.View.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day2_SQL/4.Tasks.sql" dialect="GenericSQL" />
   </component>
 </project>
