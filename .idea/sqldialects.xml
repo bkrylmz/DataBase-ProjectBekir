@@ -12,5 +12,10 @@
     <file url="file://$PROJECT_DIR$/Day2_SQL/2.ManipulationWithAs_Concatination_LowerCase_UpperCase_Length_Substr.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Day2_SQL/3.View.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/Day2_SQL/4.Tasks.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day3_SQL/1.CreateTable_InsertInto.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day3_SQL/new2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day3_SQL/new3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day3_SQL/new4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/Day3_SQL/new5.sql" dialect="GenericSQL" />
   </component>
 </project>
