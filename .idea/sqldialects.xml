@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Day1_SQL/2.distinct.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day1_SQL/3.where.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day1_SQL/4.count.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day1_SQL/5.order_by_desc_asc.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day1_SQL/6.min_max_avg_sum_group_by_having.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day1_SQL/7.in.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day1_SQL/8.like.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day2_SQL/1.SUBQUERY_ROWNUM.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day2_SQL/2.ManipulationWithAs_Concatination_LowerCase_UpperCase_Length_Substr.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day2_SQL/3.View.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day2_SQL/4.Tasks.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day3_SQL/1.CreateTable_InsertInto.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day3_SQL/new2.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day3_SQL/new3.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day3_SQL/new4.sql" dialect="GenericSQL" />
-    <file url="file://$PROJECT_DIR$/Day3_SQL/new5.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/2.distinct.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/3.where.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/4.count.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/5.order_by_desc_asc.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/6.min_max_avg_sum_group_by_having.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/7.in.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day1_SQL/8.like.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day2_SQL/1.SUBQUERY_ROWNUM.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day2_SQL/2.ManipulationWithAs_Concatination_LowerCase_UpperCase_Length_Substr.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day2_SQL/3.View.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day2_SQL/4.Tasks.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day3_SQL/1.CreateTable_InsertInto_Update_Delete.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day3_SQL/2.Alter_NewColumn_RenameColumn_RenameTo_TruncateTable_DropTable.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day3_SQL/3.TableCreate.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day3_SQL/4.Join_LeftJoin_RightJoin_FullJoin.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day3_SQL/5.Task.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day4_SQL/1.outher_sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day4_SQL/2.multiconnect_Table.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day4_SQL/3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day4_SQL/4.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/test/Day4_SQL/5.sql" dialect="GenericSQL" />
   </component>
 </project>
